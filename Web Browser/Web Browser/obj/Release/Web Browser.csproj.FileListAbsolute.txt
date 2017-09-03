@@ -1,0 +1,8 @@
+C:\Users\logancberry\OneDrive\C#\Forms\Web Browser\Web Browser\bin\Release\Web Browser.exe.config
+C:\Users\logancberry\OneDrive\C#\Forms\Web Browser\Web Browser\bin\Release\Web Browser.exe
+C:\Users\logancberry\OneDrive\C#\Forms\Web Browser\Web Browser\bin\Release\Web Browser.pdb
+C:\Users\logancberry\OneDrive\C#\Forms\Web Browser\Web Browser\obj\Release\Web_Browser.Form1.resources
+C:\Users\logancberry\OneDrive\C#\Forms\Web Browser\Web Browser\obj\Release\Web_Browser.Properties.Resources.resources
+C:\Users\logancberry\OneDrive\C#\Forms\Web Browser\Web Browser\obj\Release\Web Browser.csproj.GenerateResource.Cache
+C:\Users\logancberry\OneDrive\C#\Forms\Web Browser\Web Browser\obj\Release\Web Browser.exe
+C:\Users\logancberry\OneDrive\C#\Forms\Web Browser\Web Browser\obj\Release\Web Browser.pdb
